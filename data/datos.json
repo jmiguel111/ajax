@@ -1,0 +1,19 @@
+{
+  "notas": [
+        {
+          "para": "Jorge",
+          "de": "Juan",
+          "cuerpo":"¡No olvides la tarea!"
+        },
+        {
+          "para": "Carmen",
+          "de": "Jose Luis",
+          "cuerpo":"¡Llego mas tarde!"
+        },
+        {
+          "para": "Hilda",
+          "de": "Gerardo",
+          "cuerpo":"Te veo mañana a las 6:00pm"
+        }
+]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notas>
+      <nota>
+        <para>Jorge</para>
+        <de>Juan</de>
+        <cuerpo>¡No olvides la tarea!</cuerpo>
+       </nota>
+      <nota>
+        <para>Carmen</para>
+        <de>Jose Luis</de>
+        <cuerpo>¡Llego más tarde!</cuerpo>
+      </nota>
+      <nota>
+        <para>Hilda</para>
+        <de>Gerardo</de>
+        <cuerpo>Te veo mañana a las 6:00</cuerpo>
+       </nota>
+</notas>
